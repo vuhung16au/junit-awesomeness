@@ -3,6 +3,7 @@
  - https://junit.org/junit5/
  - https://junit.org/junit4/
  - Javadoc https://junit.org/junit4/javadoc/latest/index.html
+ - jUnit 4 assert https://junit.org/junit4/javadoc/4.8/org/junit/Assert.html
 
 # How to and references 
 
