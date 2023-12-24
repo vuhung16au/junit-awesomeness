@@ -1,5 +1,5 @@
 | No | Commands | Explanations | 
-| :------------------- | :----------: | ----------: |
+| :------------------- | :---------- | :---------- |
 | 1   | mvn clean         |              | 
 | 2   |    mvn validate      |     Validates the Maven project to ensure that everything is correct and all the necessary information is available         | 
 |   3 |    mvn test      |        Run the test cases of the project      | 
