@@ -13,7 +13,7 @@
 
 ## Sample Code 
 
-[Sample jUnit 4 Source code](https://github.com/vuhung16au/junit-awesomeness/blob/main/AppTest.java)[S
+[Sample jUnit 4 Source code](https://github.com/vuhung16au/junit-awesomeness/blob/main/AppTest.java)
 
 ## Awesome jUnit Resources 
 
