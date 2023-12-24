@@ -9,7 +9,7 @@
 
 ## Important jUnit 4 Assertions 
 
-(https://github.com/vuhung16au/junit-awesomeness/blob/main/junit4-assert.png?raw=true)
+![Important jUnit 4 Assertions](https://github.com/vuhung16au/junit-awesomeness/blob/main/junit4-assert.png?raw=true)
 
 ## Sample Code 
 
