@@ -17,4 +17,4 @@
 
 ## Awesome jUnit Resources 
 
-- [Awesome jUnit linkes](https://github.com/vuhung16au/junit-awesomeness/blob/main/maven-awesome-resoureces.md)
+- [Awesome jUnit links](https://github.com/vuhung16au/junit-awesomeness/blob/main/maven-awesome-resoureces.md)
