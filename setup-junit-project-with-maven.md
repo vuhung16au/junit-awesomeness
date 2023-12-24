@@ -11,7 +11,9 @@ cd /Users/vuhung/eclipse-workspace
 Initilize the project 
 
 ```
-mvn archetype:generate -DgroupId=com.vuhung.app -DartifactId=vuhung-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.vuhung.app -DartifactId=vuhung-app
+-DarchetypeArtifactId=maven-archetype-quickstart
+-DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
 
 This will create a junit project with specified settings
@@ -32,7 +34,8 @@ mvn package
 When we try to build with generated settings, we get the following errors 
 
 ```
-[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project vuhung-app: Compilation failure: Compilation failure:
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project vuhung-app:
+Compilation failure: Compilation failure:
 [ERROR] Source option 7 is no longer supported. Use 8 or later.
 [ERROR] Target option 7 is no longer supported. Use 8 or later.
 ```
