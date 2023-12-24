@@ -34,7 +34,8 @@ mvn package
 When we try to build with generated settings, we get the following errors 
 
 ```
-[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project vuhung-app:
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile
+(default-compile) on project vuhung-app:
 Compilation failure: Compilation failure:
 [ERROR] Source option 7 is no longer supported. Use 8 or later.
 [ERROR] Target option 7 is no longer supported. Use 8 or later.
@@ -50,8 +51,14 @@ Specify source and target for maven with newer versions in pom.xml
 	            <source>20</source>  
 	            <target>20</target>
             </configuration>
-          <version>3.8.0</version>
+          <version>3.8.1</version>
         </plugin>
+```
+
+and/or change the version of `maven-compiler-plugin` to 3.8.1+
+
+```
+          <version>3.8.1</version>
 ```
 
 # Build and Test 
