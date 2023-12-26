@@ -17,6 +17,9 @@ jUnit 5:
 
 # Assertions in jUnit 5 
 
+![Assertions in jUnit 5](https://github.com/vuhung16au/junit-awesomeness/blob/main/jUnit5-and-jUnit4.png?raw=true
+)
+
 # Setup jUnit5 and maven 
 
 pom.xml 
@@ -69,7 +72,9 @@ Plugins
         </plugins>
 ``` 
 
-# Sample code 
+# Sample jUnit 5 assertions 
+
+[jUnit 5 sample assertion](https://github.com/vuhung16au/junit-awesomeness/blob/main/JUnit5ShowcaseTest.java)
 
 # Sample run with jUnit 5 + maven 
 
