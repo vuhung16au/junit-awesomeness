@@ -4,9 +4,9 @@ This file notes important features on jUnit 5 (as compared to jUnit 4)
 
 # jUnit 5 architecture 
 
-JUnit Jupiter - Includes new programming and extension models for writing tests in JUnit 5. 
-JUnit Platform – Scopes all the extension frameworks we might have an interest in: test execution, discovery, and reporting.
-JUnit Vintage – Allows backward compatibility with JUnit 4 or even JUnit 3.
+- JUnit Jupiter - Includes new programming and extension models for writing tests in JUnit 5. 
+- JUnit Platform – Scopes all the extension frameworks we might have an interest in: test execution, discovery, and reporting.
+- JUnit Vintage – Allows backward compatibility with JUnit 4 or even JUnit 3.
 
 # New in jUnit 5 
 
